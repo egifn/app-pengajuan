@@ -40,7 +40,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Transportasi</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">Sparepart Kendaraan </div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 7</div>
                                         </div>
@@ -53,7 +53,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Utility</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">FOC</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 10</div>
                                         </div>
@@ -66,7 +66,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Bengkel Luar</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">Perawatan Gedung</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 5</div>
                                         </div>
@@ -79,7 +79,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Perawatan Gedung</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">ATK</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 7</div>
                                         </div>
@@ -92,7 +92,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Pajak</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">IT & Elektronik</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 6</div>
                                         </div>
@@ -105,7 +105,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Administrasi Kendaraan
+                                            <div style="font-size:0.95rem; font-weight:500;">BBM
                                             </div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 7</div>
@@ -119,7 +119,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Barang Perizinan</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">Peralatan Kantor</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 7</div>
                                         </div>
@@ -132,7 +132,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Remunerasi</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">Material</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 34</div>
                                         </div>
@@ -145,7 +145,7 @@
                                         style="border:1px solid #ddd; text-decoration:none; color:inherit;">
                                         <div class="card-body p-2 d-flex flex-column justify-content-center align-items-center"
                                             style="background: linear-gradient(to bottom, #f8f8f8 80%, #fff 100%); min-height:80px;">
-                                            <div style="font-size:0.95rem; font-weight:500;">Barang Koordinasi</div>
+                                            <div style="font-size:0.95rem; font-weight:500;">Peralatan Berat</div>
                                             <div style="color:#c00; font-size:1.1rem; font-weight:600; margin-top:4px;">
                                                 34</div>
                                         </div>
