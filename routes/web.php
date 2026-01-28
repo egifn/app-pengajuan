@@ -830,9 +830,11 @@ Route::middleware(['auth'])->group(function () {
     Route::prefix('status_cheque')->name('status_cheque.')->group(function () {
         Route::get('/', 'Bod\StatusChequeController@index')->name('index');
         Route::get('/data', 'Bod\StatusChequeController@getData')->name('getData');
-        Route::post('/', 'Bod\StatusChequeController@store')->name('store');
-        Route::put('/{id}', 'Bod\StatusChequeController@update')->name('update');
-        Route::delete('/{id}', 'Bod\StatusChequeController@destroy')->name('destroy');
+    });
+
+    Route::prefix('summary_cheque')->name('summary_cheque.')->group(function () {
+        Route::get('/', 'Bod\SummaryChequeController@index')->name('index');
+        Route::get('/data', 'Bod\SummaryChequeController@getData')->name('getData');
     });
 
 

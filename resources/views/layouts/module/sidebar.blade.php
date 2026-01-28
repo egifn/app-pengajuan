@@ -80,7 +80,7 @@
         <li
             class="nav-item {{ request()->routeIs('status_cheque.*') ? 'active' : '' }}">
             <a class="nav-link" href="{{ route('status_cheque.index') }}">
-                <i class="nav-icon icon-list"></i> Status Cheque
+                <i class="nav-icon icon-list"></i> Input Status Cheque
             </a>
         </li>
 
@@ -90,17 +90,10 @@
         @endphp
 
         <li
-            class="nav-item nav-dropdown {{ $isSummaryChequeActive ? 'open' : '' }}">
-            <a class="nav-link nav-dropdown-toggle" href="#">
-                <i class="nav-icon icon-doc"></i> Summary Cheque
+            class="nav-item nav {{ $isSummaryChequeActive ? 'active' : '' }}">
+            <a class="nav-link" href="{{ route('summary_cheque.index') }}">
+                <i class="nav-icon icon-check"></i> Update Status Cheque
             </a>
-            <ul class="nav-dropdown-items">
-                <li class="nav-item">
-                    <a class="nav-link" href="#">
-                        <i class="nav-icon icon-check"></i> Cheque yang sudah di TTD, dan tujuan
-                    </a>
-                </li>
-            </ul>
         </li>
 
         {{-- Status Transfer --}}
